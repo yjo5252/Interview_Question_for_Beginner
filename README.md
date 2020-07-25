@@ -27,7 +27,7 @@
 
 ## :memo: Table of Contents
 
-- [What is this?](#pray)
+- [What is this?](#what-is-this)
 - [면접에서 받았던 질문들](#면접에서-받았던-질문들)
 - [Part 1. CS](#part-1-전산-기초)
   - [개발상식](https://github.com/JaeYeopHan/Beginner_for_interview/tree/master/Development_common_sense)
@@ -58,7 +58,6 @@
 > 취준생 여러분의 건승을 기원합니다 :thumbsup:
 
 ### :sparkles: HELP
-#### pray
 
 ##### :pray: [HOW TO CONTRIBUTE](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/CONTRIBUTING.md)
 
