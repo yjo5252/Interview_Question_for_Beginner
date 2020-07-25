@@ -58,6 +58,7 @@
 > 취준생 여러분의 건승을 기원합니다 :thumbsup:
 
 ### :sparkles: HELP
+#### pray
 
 ##### :pray: [HOW TO CONTRIBUTE](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/CONTRIBUTING.md)
 
